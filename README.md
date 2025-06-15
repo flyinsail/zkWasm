@@ -18,7 +18,7 @@ The idea of ZKWASM is derived from ZKSNARK (Zero-Knowledge Succinct Non-Interact
 
 # Circuit Details:
 
-https://jhc.sjtu.edu.cn/~hongfeifu/manuscriptb.pdf
+https://ieeexplore.ieee.org/document/10587123
 
 # Quick start with ZKWASM command line
 
